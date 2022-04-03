@@ -1,4 +1,4 @@
-# linkedin-profile-picture-notifier
+# Linkedin Profile Picture Notifier
 
 This is a commissioned project that notifies users over email when a person's LinkedIn
 profile picture changes. If a person changes their profile image on LinkedIn it may imply
