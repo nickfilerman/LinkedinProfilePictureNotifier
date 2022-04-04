@@ -6,6 +6,8 @@ that the individual is looking at jobs at other places as they are actively on L
 Recruiters are able to utilize this software in order to be the first to reach out to
 individuals tracked by the program.
 
+This is a clone of the original repository, see the original [here](https://github.com/davidteather/linkedin-profile-picture-notifier)
+
 ## Configuration
 
 You will need to configure settings.json here's a template
